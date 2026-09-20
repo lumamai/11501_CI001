@@ -14,4 +14,4 @@
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://lumamai.github.io/](https://lumamai.github.io/)
+Visit my personal website: [https://b1029.github.io/](https://lumamai.github.io/)
